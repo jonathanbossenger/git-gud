@@ -1,2 +1,2 @@
-# git-gud
-Git Gud
+# Git gud: Crash course to Git
+This was a session on using Git
